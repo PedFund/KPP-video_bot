@@ -1,0 +1,2 @@
+elevenlabs_api_key = "sk_5e19e5150fef376a2ae1b69f3dc4214281c141da6655912b"
+bot_token = "7656205070:AAEtNXC07pIuuphkZJssXu_d7ULkPnpHegA"

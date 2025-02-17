@@ -1,0 +1,14 @@
+telebot
+pyTelegramBotAPI
+requests
+python-dotenv
+moviepy
+imageio
+imageio-ffmpeg
+mutagen
+ffmpeg-python
+elevenlabs
+numpy
+pandas
+tqdm
+six
